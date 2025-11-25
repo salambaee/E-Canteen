@@ -1,16 +1,5 @@
-# e_canteen
+# E-Canteen
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Jalankan aplikasi dan buktikan bahwa data yang tampil sesuai dengan yang ada di Firebase Console
+!(Screenshot)[img_1.png]
+2. Lakukan pemesanan, dan tunjukkan kepada Dosen/Asisten bahwa data pesanan masuk ke koleksi orders di Console
